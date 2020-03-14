@@ -12,6 +12,8 @@ public class SaySomething {
         System.out.println("xiaobai");
         if ( 1== 1) {
             System.out.println("xiaohei");
+            System.out.println("李白");
         }
+
     }
 }
