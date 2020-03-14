@@ -27,5 +27,6 @@ public class SaySomething {
         System.out.println("fixbug2");
         System.out.println();
         System.out.println("123");
+        System.out.println("add 2");
     }
 }
