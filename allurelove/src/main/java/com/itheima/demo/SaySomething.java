@@ -15,5 +15,9 @@ public class SaySomething {
             System.out.println("李白");
         }
 
+        System.out.println("李白");
+        for (int i = 0; i < 100; i++) {
+            System.out.println("xiaolai");
+        }
     }
 }
