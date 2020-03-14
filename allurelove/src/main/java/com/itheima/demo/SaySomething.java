@@ -9,5 +9,6 @@ public class SaySomething {
         System.out.println("会满雕弓如满月,西北望,射天狼");
         System.out.println("allurelove");
         System.out.println("奥利给");
+        System.out.println("李白");
     }
 }
