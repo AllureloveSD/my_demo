@@ -10,5 +10,8 @@ public class SaySomething {
         System.out.println("allurelove");
         System.out.println("奥利给");
         System.out.println("xiaobai");
+        if ( 1== 1) {
+            System.out.println("xiaohei");
+        }
     }
 }
