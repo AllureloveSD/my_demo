@@ -21,5 +21,9 @@ public class SaySomething {
         }
 
         System.out.println("allbluelove");
+
+        System.out.println("abcfixbug");
+        System.out.println("fixbug2");
+        System.out.println();
     }
 }
