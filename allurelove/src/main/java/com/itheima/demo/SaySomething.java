@@ -22,5 +22,6 @@ public class SaySomething {
 
         System.out.println("allbluelove");
         System.out.println("add feature");
+        System.out.println("add 2");
     }
 }
